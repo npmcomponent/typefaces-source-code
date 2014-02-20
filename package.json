@@ -1,0 +1,15 @@
+{
+  "name": "typefaces-source-code",
+  "description": "The Source Code typeface.",
+  "version": "0.0.1",
+  "dependencies": {
+    "typefaces-source-code-extra-light": "git://github.com/npmcomponent/typefaces-source-code-extra-light.git",
+    "typefaces-source-code-light": "git://github.com/npmcomponent/typefaces-source-code-light.git",
+    "typefaces-source-code-regular": "git://github.com/npmcomponent/typefaces-source-code-regular.git",
+    "typefaces-source-code-medium": "git://github.com/npmcomponent/typefaces-source-code-medium.git",
+    "typefaces-source-code-semibold": "git://github.com/npmcomponent/typefaces-source-code-semibold.git",
+    "typefaces-source-code-bold": "git://github.com/npmcomponent/typefaces-source-code-bold.git",
+    "typefaces-source-code-black": "git://github.com/npmcomponent/typefaces-source-code-black.git"
+  },
+  "license": "MIT"
+}
